@@ -1,5 +1,7 @@
 # my-pluralize-ts-ci
 
+Source tutorial: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
+
 Training with Typescript library publish and training with Travis CI
 
 A Node.js module that returns the plural form of any noun
