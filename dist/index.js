@@ -9,9 +9,9 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var pluralize = __importStar(require("pluralize"));
 /**
-* @Method: Returns the plural form of any noun.
-* @Param {string}
-* @Return {string}
+* @method: Returns the plural form of any noun.
+* @param {string} str Input string
+* @return {string}
 */
 function getPlural(str) {
     return pluralize.plural(str);
