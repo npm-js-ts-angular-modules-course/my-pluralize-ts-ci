@@ -8,7 +8,9 @@
     "test": "mocha --reporter spec",
     "tsc-init": "./node_modules/.bin/tsc --init",
     "build": "./node_modules/.bin/tsc",
-    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js --report lcovonly -- -R spec && cat ./coverage/lcov.info"
+
+    
   },
   "repository": {
     "type": "git",
