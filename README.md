@@ -1,5 +1,7 @@
 # my-pluralize-ts-ci
 
+[![Coverage Status](https://coveralls.io/repos/github/npm-js-ts-angular-modules-course/my-pluralize-ts-ci/badge.svg?branch=master)](https://coveralls.io/github/npm-js-ts-angular-modules-course/my-pluralize-ts-ci?branch=master)
+
 Source tutorial: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 
 Training with Typescript library publish and training with Travis CI
